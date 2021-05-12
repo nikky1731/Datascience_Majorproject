@@ -1,1 +1,1 @@
-# Datascience_Majorproject
+Machine-Learning-in-Intraday-Stock-Trading
